@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     //Just as a note, setting the Rigidbody to Kinematic helped with the ball slowing down
-
     private Rigidbody2D rb;
     GameManager gameManager;
 
